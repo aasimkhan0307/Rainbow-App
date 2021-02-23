@@ -4,3 +4,4 @@ pink
 green
 yello
 orange
+VIOLET
