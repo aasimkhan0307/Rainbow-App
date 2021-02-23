@@ -5,3 +5,4 @@ green
 yello
 orange
 VIOLET
+VIBGYOR
